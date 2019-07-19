@@ -1,2 +1,2 @@
 # my-hub
-General purpose repository
+I store all my works and projects here
