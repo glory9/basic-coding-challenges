@@ -1,2 +1,2 @@
 # my-hub
-I store all my works and projects here
+You can view some of my work/projects here
