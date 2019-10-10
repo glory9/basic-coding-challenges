@@ -1,2 +1,2 @@
 # my-hub
-You can view some of my work/projects here
+I store most of my console application socuce files here
