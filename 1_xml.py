@@ -16,6 +16,6 @@ exp = tree.findall('comments/comment')
 #test link: http://py4e-data.dr-chuck.net/comments_175325.xml
 x = 0
 for item in exp:
-    roo = int(item.find('count').text)
-    x = x + roo
+    val = int(item.find('count').text)
+    x = x + val
 print('Total Sum is', x)
