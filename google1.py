@@ -2,12 +2,10 @@
 
 a = input().split(',')
 b = sorted([int(_) for _ in a])
+g, h = [], []
 
-g = list()
-h = list()
+g.append(b.pop())
 
-g.append(b[len(b) - 1])
-b.remove(b[len(b) - 1])
 v = abs(sum(b) - sum(g))
 h.append(v)
 
