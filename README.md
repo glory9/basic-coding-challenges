@@ -1,2 +1,2 @@
 # my-hub
-I store most of my console application source files here
+I store most of my daily practice problems here
